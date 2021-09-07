@@ -1,4 +1,4 @@
-import {Room} from '../room';
+import {Room} from '../models/room';
 import {Component, OnInit, Input} from '@angular/core';
 import {RoomService} from '../room.service';
 import {Router, ActivatedRoute} from '@angular/router';
