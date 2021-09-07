@@ -1,3 +1,23 @@
+Esse projeto é um gerenciador de salas de reuniões, ele é o front-end do projeto https://github.com/MauroAlbrecht/sala-reuniao-back.
+
+Tecnologias utilizadas:
+- Angular 8
+- Bootstrap
+- Jquery
+
+# Telas do Sistema
+Create
+![Create](/src/assets/create.png)
+
+Update
+![Create](/src/assets/update.png)
+
+Details
+![Create](/src/assets/details.png)
+
+List
+![Create](/src/assets/list.png)
+
 # SalaReuniaoFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
